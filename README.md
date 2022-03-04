@@ -8,6 +8,9 @@ If you have any questions, problems, feature requests or anything else:
 [Report a bug/problem/issue](https://github.com/andre0707/WorkoutMap/issues)
 
 
+You can also check the wiki page here: [Wiki](https://github.com/andre0707/WorkoutMap/wiki)
+
+
 ## Description
 
 Ever wondered what it would look like to see all your in Health recorded workouts on one map at once?
