@@ -8,7 +8,7 @@ If you have any questions, problems, feature requests or anything else:
 [Report a bug/problem/issue](https://github.com/andre0707/WorkoutMap/issues)
 
 
-You can also check the wiki page here: [Wiki (German)](https://github.com/andre0707/WorkoutMap/wiki)
+You can also check the wiki page here: [Wiki](https://github.com/andre0707/WorkoutMap/wiki)
 
 
 ## Description
